@@ -1,0 +1,14 @@
+Home page 
+	posts
+		Feeling good, attending lecture with 69 others
+		like ()
+	
+
+Bottom Navigation Bar
+	1
+	2
+	3
+	4
+
+
+updated by - Dev-1

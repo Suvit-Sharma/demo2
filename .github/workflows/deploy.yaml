@@ -5,6 +5,9 @@ on:
     branches:
       - master  # Runs when code is pushed to the main branch
 
+permissions:  
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

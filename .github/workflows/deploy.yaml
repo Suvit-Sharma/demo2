@@ -3,7 +3,7 @@ name: Deploy Static Website
 on:
   push:
     branches:
-      - main  # Runs when code is pushed to the main branch
+      - master  # Runs when code is pushed to the main branch
 
 jobs:
   deploy:
